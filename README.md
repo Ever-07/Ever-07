@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ever-07
-- 👀 I’m interested in ...
+- 👀 learning to program
 
 
 <!---

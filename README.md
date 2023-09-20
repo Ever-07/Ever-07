@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ever-07
-- 👀 learning to program
+- 👀 systems student
 
 
 <!---
